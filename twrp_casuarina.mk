@@ -40,9 +40,3 @@ PRODUCT_NAME := twrp_casuarina
 PRODUCT_BRAND := Vsmart
 PRODUCT_MODEL := Vsmart Joy 3
 PRODUCT_MANUFACTURER := Vsmart
-
-PRODUCT_PRODUCT_PROPERTIES += \
-	ro.secure=1 \
-	ro.adb.secure=0 \
-	ro.product.device=casuarina
-
