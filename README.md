@@ -1,6 +1,5 @@
 # Device tree for Vsmart Joy 3 (codenamed _"casuarina"_)
 
-==================================
 ## Device specifications
 
 | Device                  | Vsmart Joy 3                                                |
@@ -20,10 +19,6 @@
 | Rear camera 2           | 8 MP                                                        |
 | Rear camera 3           | 2 MP                                                        |
 | Front camera            | 8 MP                                                        |
-
-## Device Picture
-
-![Vsmart Joy 3](https://cellphones.com.vn/sforum/vsmart-joy-3-ra-mat-snapdragon-632-cum-3-camera-chinh-pin-5000mah-gia-tu-2-3-trieu-dong "Joy 3")
 
 ### Copyright
  ```
